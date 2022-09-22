@@ -12,3 +12,9 @@ div {
     text-align: center;
     font-weight: bold;
 }
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
